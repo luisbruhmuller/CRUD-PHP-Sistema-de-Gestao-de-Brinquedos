@@ -4,7 +4,7 @@ CRUD simples de brinquedos em PHP e MySQL. Permite cadastrar, listar, editar e e
 
 ## Requisitos
 
-- PHP 8.0 ou mais recente, com a extensão `pdo_mysql` habilitada
+- PHP 8.1 ou mais recente, com a extensão `pdo_mysql` habilitada
 - MySQL ou MariaDB
 - Um navegador
 
